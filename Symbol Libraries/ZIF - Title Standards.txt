@@ -1,0 +1,10 @@
+Resistor
+RES 1.4k 0603 1%
+RES-0603-1K40-1
+RES - Resistor
+0603 - Size
+4k40 - Value
+1 - Tolerance
+
+
+LCSC PART #
